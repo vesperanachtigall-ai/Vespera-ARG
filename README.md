@@ -78,3 +78,77 @@ More engine files will be added as the ARG expands.
 Artifacts represent the recovered media produced by breach events.  
 Folders are structured as follows:
 
+# Timeline
+
+Timeline files document canonical breach events in chronological order.
+
+**`timeline/01_Initial_Breach_Cycle.md`**  
+https://github.com/vesperanachtigall-ai/Vespera-ARG/blob/main/timeline/01_Initial_Breach_Cycle.md
+
+Each timeline entry includes:
+- Timestamp (+00:00:37 drift when applicable)  
+- Breach level  
+- Distortion behaviors  
+- Associated artifacts  
+- Notes from the Veil  
+- Lore significance  
+
+New timeline files will be added as each season unfolds.
+
+---
+
+# Project Structure
+
+The repository is organized as follows:
+
+- `codex/`  
+  - Contains the combined Vespera Master Codex (`Vespera_Master_Codex.md`).
+
+- `engine/`  
+  - `0313_Event_Blueprint.md` defines breach levels and 03:13 behavior.  
+  - `Season_Model.md` defines seasonal and multi-year structure.
+
+- `timeline/`  
+  - `01_Initial_Breach_Cycle.md` documents the earliest canonical events.
+
+- `artifacts/`  
+  - `images/` for still-image artifacts.  
+  - `video/` for video artifacts.  
+  - `audio/` for sound artifacts and 0-3-1-3 captures.  
+  - `transcripts/` for Veil logs, missives, and dialog.
+
+- Root files:  
+  - `README.md` (this file).  
+  - `LICENSE` (project licensing terms).
+
+---
+
+# Contribution Guidelines
+
+This repository serves as the authoritative reference for the Vespera ARG.
+
+Contributions must:
+- Follow breach physics  
+- Respect Codex-defined behavior  
+- Maintain tone (Veil: clinical; Vespera: Victorian contempt)  
+- Avoid contradictions across media  
+- Preserve the chronology of breach events  
+- Support multi-year scalability  
+
+Pull requests should describe which part of the canon they extend or refine.
+
+---
+
+# License
+
+This repository is released under:
+
+**Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International**
+
+See `LICENSE` for details.
+
+---
+
+# The Watch Sees
+
+
