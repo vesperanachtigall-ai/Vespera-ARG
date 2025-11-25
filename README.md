@@ -75,6 +75,25 @@ More engine files will be added as the ARG expands.
 
 # Artifacts
 
+The artifacts directory contains the media and documentation recovered from breach events. Each subfolder organizes a specific type of anomaly.
+
+Artifacts are grouped as follows:
+
+- images/  
+  Contains still images, CCTV frames, composites, and breach photographs.
+
+- video/  
+  Contains video files including multi-feed grid events, handheld captures, and surveillance anomalies.
+
+- audio/  
+  Contains 0-3-1-3 pattern recordings, Temporal Elegy fragments, and other breach-related audio.
+
+- transcripts/  
+  Contains Veil missives, logs, dialogue transcriptions, and textual artifacts.
+
+Each artifact should link to a corresponding timeline entry and maintain consistency with the visual and audio language defined in the Codex.
+
+
 Artifacts represent the recovered media produced by breach events.  
 Folders are structured as follows:
 
