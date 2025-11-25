@@ -87,3 +87,17 @@ Future cycles may introduce:
 - New entities
 - New rituals
 - Timeline wars
+
+Related Documents
+
+Master Codex  
+Full world rules and tone definitions:  
+https://github.com/vesperanachtigall-ai/Vespera-ARG/blob/main/codex/Vespera_Master_Codex.md
+
+Timeline  
+Current breach events and sequence:  
+https://github.com/vesperanachtigall-ai/Vespera-ARG/tree/main/timeline
+
+Artifacts  
+All recovered media from breach events:  
+https://github.com/vesperanachtigall-ai/Vespera-ARG/tree/main/artifacts

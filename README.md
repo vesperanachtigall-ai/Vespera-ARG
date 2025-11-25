@@ -165,6 +165,24 @@ See `LICENSE` for details.
 
 ---
 
+Additional Navigation
+
+Master Codex  
+https://github.com/vesperanachtigall-ai/Vespera-ARG/blob/main/codex/Vespera_Master_Codex.md
+
+Engine  
+https://github.com/vesperanachtigall-ai/Vespera-ARG/tree/main/engine
+
+Timeline  
+https://github.com/vesperanachtigall-ai/Vespera-ARG/tree/main/timeline
+
+Artifacts  
+https://github.com/vesperanachtigall-ai/Vespera-ARG/tree/main/artifacts
+
+Documentation  
+https://github.com/vesperanachtigall-ai/Vespera-ARG/tree/main/docs
+
+
 # The Watch Sees
 
 

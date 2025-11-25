@@ -42,3 +42,21 @@ Transcripts should:
 - Avoid speculation  
 
 Artifact handling ensures that the world remains consistent and believable.
+
+Cross References
+
+Master Codex  
+Complete rule system:  
+https://github.com/vesperanachtigall-ai/Vespera-ARG/blob/main/codex/Vespera_Master_Codex.md
+
+Engine documents  
+Structural behavior of breaches and seasons:  
+https://github.com/vesperanachtigall-ai/Vespera-ARG/tree/main/engine
+
+Timeline  
+Recorded breach events:  
+https://github.com/vesperanachtigall-ai/Vespera-ARG/tree/main/timeline
+
+Artifacts  
+Examples of anomalies and recorded evidence:  
+https://github.com/vesperanachtigall-ai/Vespera-ARG/tree/main/artifacts

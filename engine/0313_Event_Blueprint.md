@@ -105,3 +105,17 @@ When designing new events:
 - Ensure Vespera’s portrayal is visually and tonally consistent across media.
 
 Use this blueprint as your checklist for all new breach events.
+
+Related Documents
+
+Master Codex  
+Full world rules and tone definitions:  
+https://github.com/vesperanachtigall-ai/Vespera-ARG/blob/main/codex/Vespera_Master_Codex.md
+
+Timeline  
+Current breach events and sequence:  
+https://github.com/vesperanachtigall-ai/Vespera-ARG/tree/main/timeline
+
+Artifacts  
+All recovered media from breach events:  
+https://github.com/vesperanachtigall-ai/Vespera-ARG/tree/main/artifacts

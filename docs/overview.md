@@ -23,3 +23,21 @@ artifact handling
 Explains how to create, format, and catalog artifacts that appear in the timeline.
 
 The goal of the documentation folder is to maintain clarity as the project grows over time.
+
+Cross References
+
+Master Codex  
+Complete rule system:  
+https://github.com/vesperanachtigall-ai/Vespera-ARG/blob/main/codex/Vespera_Master_Codex.md
+
+Engine documents  
+Structural behavior of breaches and seasons:  
+https://github.com/vesperanachtigall-ai/Vespera-ARG/tree/main/engine
+
+Timeline  
+Recorded breach events:  
+https://github.com/vesperanachtigall-ai/Vespera-ARG/tree/main/timeline
+
+Artifacts  
+Examples of anomalies and recorded evidence:  
+https://github.com/vesperanachtigall-ai/Vespera-ARG/tree/main/artifacts

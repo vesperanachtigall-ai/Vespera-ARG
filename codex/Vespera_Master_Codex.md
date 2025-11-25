@@ -496,3 +496,16 @@ Each arc unlocks based on follower growth.
 
 [END OF PART 3]
 
+Cross References
+
+Engine documents  
+View breach and season rules here:  
+https://github.com/vesperanachtigall-ai/Vespera-ARG/tree/main/engine
+
+Timeline  
+View documented breach events here:  
+https://github.com/vesperanachtigall-ai/Vespera-ARG/tree/main/timeline
+
+Artifacts  
+View image, audio, video, and transcript artifacts here:  
+https://github.com/vesperanachtigall-ai/Vespera-ARG/tree/main/artifacts

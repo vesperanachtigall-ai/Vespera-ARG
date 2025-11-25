@@ -41,3 +41,16 @@ A silhouette appeared at the far end of a blue lit hallway.
 Spatial compression affected the wall structure, and drift persisted across several frames.  
 Associated image artifacts will be documented separately.
 
+Cross References
+
+Master Codex  
+Full rules for breach physics, tone, and structure:  
+https://github.com/vesperanachtigall-ai/Vespera-ARG/blob/main/codex/Vespera_Master_Codex.md
+
+Engine documents  
+Season and breach behavior rules:  
+https://github.com/vesperanachtigall-ai/Vespera-ARG/tree/main/engine
+
+Artifacts  
+Media related to the events in this file:  
+https://github.com/vesperanachtigall-ai/Vespera-ARG/tree/main/artifacts
