@@ -8,7 +8,7 @@ Three pillars define each season:
 3. The Event Horizon
 
 ------------------------------------------------------------------------
-1. PILLAR I: THE LONG SHADOW (Slow Burn)\
+1. PILLAR I: THE LONG SHADOW (Slow Burn)
 -----------------------------------------------------------------------
 
 __Purpose:__
