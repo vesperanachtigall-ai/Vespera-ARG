@@ -8,7 +8,7 @@ Three pillars define each season:
 3. The Event Horizon
 
 ------------------------------------------------------------------------
-1. PILLAR I: THE LONG SHADOW (Slow Burn)\n
+1. PILLAR I: THE LONG SHADOW (Slow Burn)\
 -----------------------------------------------------------------------
 
 __Purpose:__
@@ -28,7 +28,8 @@ __Tone:__
 - Vespera: distant, judging, rarely centered.
 
 ------------------------------------------------------------------------
-2. PILLAR II: THE ASCENT (Seasonal Arc)\n-------------------------------------------------------------------------
+2. PILLAR II: THE ASCENT (Seasonal Arc)
+-------------------------------------------------------------------------
 
 __Purpose:__
 - Escalate tension and deepen lore.
@@ -47,7 +48,8 @@ Community triggers:
 - Multi-feed secrets
 
 ------------------------------------------------------------------------
-3. PILLAR III: THE EVENT HORIZON (Annual Collapse)\n-------------------------------------------------------------------------
+3. PILLAR III: THE EVENT HORIZON (Annual Collapse)
+-------------------------------------------------------------------------
 
 __Purpose:__
 - Deliver yearly climax without ending ARG.
@@ -65,7 +67,8 @@ __Outcome::__
 - Possible Veil succession.
 
 -----------------------------------------------------------------------
-4. ENGAGEMENT RESPONSIVENESS\n------------------------------------------------------------------------
+4. ENGAGEMENT RESPONSIVENESS
+------------------------------------------------------------------------
 
 __Adaptive design:__
 - Fast follower growth: 
@@ -76,7 +79,8 @@ __Adaptive design:__
   - Use subtle anomalies
 
 ------------------------------------------------------------------------
-5. FUTUREP-PROOFING\n------------------------------------------------------------------------
+5. FUTUREP-PROOFING
+------------------------------------------------------------------------
 
 Future cycles may introduce:
 - New Veils
