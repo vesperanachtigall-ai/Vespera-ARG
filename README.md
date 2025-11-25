@@ -94,9 +94,6 @@ Artifacts are grouped as follows:
 Each artifact should link to a corresponding timeline entry and maintain consistency with the visual and audio language defined in the Codex.
 
 
-Artifacts represent the recovered media produced by breach events.  
-Folders are structured as follows:
-
 # Timeline
 
 Timeline files document canonical breach events in chronological order.
