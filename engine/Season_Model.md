@@ -79,7 +79,7 @@ __Adaptive design:__
   - Use subtle anomalies
 
 ------------------------------------------------------------------------
-5. FUTUREP-PROOFING
+5. 5. FUTURE-PROOFING
 ------------------------------------------------------------------------
 
 Future cycles may introduce:
