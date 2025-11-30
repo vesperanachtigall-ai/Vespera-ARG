@@ -16,3 +16,22 @@ Artifacts are grouped into the following categories:
 - transcripts/  
   Veil missives, logbook entries, dialog transcripts, decoded messages, and associated text artifacts.
 
+All artifacts should:
+- Include a date in YYYYMMDD format.
+- Use consistent naming and metadata.
+- Be referenced by at least one timeline entry.
+- Follow breach physics and Codex-defined distortion rules.
+
+Cross References
+
+Master Codex  
+Rules for visual and audio language:  
+https://github.com/vesperanachtigall-ai/Vespera-ARG/blob/main/codex/Vespera_Master_Codex.md
+
+Engine documents  
+Breach behavior and seasonal structure:  
+https://github.com/vesperanachtigall-ai/Vespera-ARG/tree/main/engine
+
+Timeline  
+Events linked to each artifact:  
+https://github.com/vesperanachtigall-ai/Vespera-ARG/tree/main/timeline
